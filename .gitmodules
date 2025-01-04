@@ -1,3 +1,12 @@
 [submodule "TP2"]
 	path = TP2
 	url = git@github.com:Joaconte/Fiuba-Algo_2-TP2.git
+[submodule "TP3"]
+	path = TP3
+	url = git@github.com:Joaconte/Fiuba-Algo_2-TP3.git
+[submodule "TP4"]
+	path = TP4
+	url = git@github.com:Joaconte/Fiuba-Algo_2-TP4.git
+[submodule "TP5"]
+	path = TP5
+	url = git@github.com:Joaconte/Fiuba-Algo_2-TP5.git
